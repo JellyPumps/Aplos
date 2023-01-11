@@ -1,7 +1,7 @@
 
 # Aplos
 
-A programming language inspired by the simplicity and readablitiy of pseudocode. 
+A programming language inspired by the simplicity and readability of pseudocode. 
 
 ## Todo
 
